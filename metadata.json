@@ -1,0 +1,6 @@
+{
+  "name": "GovAssist",
+  "description": "Independent AI-powered government benefits discovery and application guidance assistant for citizens of India (Pilot: Tamil Nadu & Central Schemes).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
